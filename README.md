@@ -35,6 +35,7 @@ O sistema oferece um menu interativo com as seguintes opções:
 - **JDBC (Java Database Connectivity)**: Para conexão com o banco de dados.
 - **MySQL**: Sistema Gerenciador de Banco de Dados (SGBD).
 - **Padrão DAO**: Separação da lógica de acesso a dados da lógica de negócio.
+- **Apache NetBeans**: IDE utilizada para desenvolvimento.
 
 ## 📂 Estrutura do Projeto
 
