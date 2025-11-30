@@ -100,7 +100,6 @@ public class funcionariosDao {
                     System.out.println("Erro ao fechar a conexão: " + ex.getMessage());
                 }
             }
-            input.close(); 
         }
     }
 
