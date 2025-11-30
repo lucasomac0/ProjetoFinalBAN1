@@ -55,9 +55,4 @@ O código está organizado no pacote `projetoban` seguindo a estrutura:
 ### 1. Configuração do Banco de Dados
 Antes de rodar a aplicação, execute o script SQL gerado pelo Modelo Lógico no seu banco de dados para criar as tabelas.
 
-Certifique-se de criar o banco com o nome `udesc` (ou altere na classe de conexão).
-
-```sql
-CREATE DATABASE udesc;
-USE udesc;
--- (Cole aqui o script DDL de criação das tabelas gerado na etapa de modelagem)
+Certifique-se de criar o banco com o nome `udesc` (ou altere na classe de conexão) e colar o conteúdo do arquivo `banco.sql`.
